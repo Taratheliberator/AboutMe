@@ -1,5 +1,5 @@
 # Главная страница
-![](http://gindullin.herokuapp.com/photo/five)
+![](https://s0.rbk.ru/v6_top_pics/media/img/3/47/756030305543473.jpg)
 
 Меня зовут Гиндуллин Винер, работаю в добыващей отрасли, изучаю Java.
 
